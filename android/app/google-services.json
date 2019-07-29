@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319668194614",
+    "firebase_url": "https://mycafe-test-86571.firebaseio.com",
+    "project_id": "mycafe-test-86571",
+    "storage_bucket": "mycafe-test-86571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319668194614:android:357cf80331c95d12",
+        "android_client_info": {
+          "package_name": "nl.anco.my_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319668194614-106e58ahq94s33dlr31rnato1cig6abb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MdWdTOT0d50HmNQcju_4Z0Y2F6fWQ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319668194614-106e58ahq94s33dlr31rnato1cig6abb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

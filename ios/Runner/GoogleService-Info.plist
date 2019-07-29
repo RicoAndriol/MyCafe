@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>319668194614-ssjtcl7n821q076ptdqgnonmp8912p6s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.319668194614-ssjtcl7n821q076ptdqgnonmp8912p6s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwDC_YXTDtLJNwhGHa1y9nLZxi24yaGxY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>319668194614</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nl.an-co.myCafe</string>
+	<key>PROJECT_ID</key>
+	<string>mycafe-test-86571</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mycafe-test-86571.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:319668194614:ios:3c9c47858898fd6d</string>
+	<key>DATABASE_URL</key>
+	<string>https://mycafe-test-86571.firebaseio.com</string>
+</dict>
+</plist>
