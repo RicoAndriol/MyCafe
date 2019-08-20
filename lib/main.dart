@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:my_cafe/login_page.dart';
+import 'package:my_cafe/auth.dart';
+import 'package:my_cafe/auth_provider.dart';
+import 'package:my_cafe/root_page.dart';
 
 void main(List<String> args) {
   runApp(MyApp());
@@ -8,12 +10,15 @@ void main(List<String> args) {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'My Cafe',
-      theme: ThemeData(
-        primarySwatch: Colors.blue
+    return AuthProvider(
+      auth: Auth(),
+          child: MaterialApp(
+        title: 'My Cafe',
+        theme: ThemeData(
+          primarySwatch: Colors.blue
+        ),
+        home: RootPage(),
       ),
-      home: LoginPage(),
     );
   }
 }
